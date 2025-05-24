@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import { drizzle } from 'drizzle-orm/libsql';
 import { eq } from 'drizzle-orm';
-import { usersTable } from './db/schema';
+import { usersTable } from './src/db/schema';
   
 const db = drizzle(process.env.DB_FILE_NAME!);
 
@@ -34,8 +34,8 @@ async function main() {
     .where(eq(usersTable.email, user.email));
   console.log('User info updated!')
 
-  await db.delete(usersTable).where(eq(usersTable.email, user.email));
-  console.log('User deleted!')
+  // await db.delete(usersTable).where(eq(usersTable.email, user.email));
+  // console.log('User deleted!')
 }
 
 main();
