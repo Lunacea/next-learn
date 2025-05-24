@@ -108,40 +108,6 @@ bun run build
 bun start
 ```
 
-## 📖 重要な概念
-
-### Web３層構造
-
-```text
-クライアント ↔ Webサーバー ↔ APサーバー ↔ DBサーバー
-```
-
-### React コンポーネント例
-
-```tsx
-export default function NavLink({ href, children }: {
-  href: string;
-  children: React.ReactNode;
-}) {
-    return (
-        <Link href={href} className="mr-4 bg-amber-50 text-blue-600">
-            {children}
-        </Link>
-    );
-}
-```
-
-### Drizzle スキーマ例
-
-```typescript
-export const usersTable = sqliteTable("users_table", {
-  id: int().primaryKey({ autoIncrement: true }),
-  name: text().notNull(),
-  age: int().notNull(),
-  email: text().notNull().unique(),
-});
-```
-
 ## 🎯 次のステップ
 
 研究室勉強会で予定している今後のテーマです。  
