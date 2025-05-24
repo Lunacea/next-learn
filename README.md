@@ -1,16 +1,16 @@
 # Web勉強会プロジェクト
 
-[![参考資料](https://img.shields.io/badge/📚_参考資料-REFERENCES-blue?style=for-the-badge)](./REFERENCES.md)
-[![勉強会履歴](https://img.shields.io/badge/🗓️_勉強会履歴-SESSIONS-green?style=for-the-badge)](./STUDY_SESSIONS.md)
+[![参考資料](https://img.shields.io/badge/📚_参考資料-REFERENCES-blue?style=popout-square)](./REFERENCES.md)
+[![勉強会履歴](https://img.shields.io/badge/🗓️_勉強会履歴-SESSIONS-green?style=popout-square)](./STUDY_SESSIONS.md)
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bun](https://img.shields.io/badge/Bun-1.0+-fbf0df?style=for-the-badge&logo=bun&logoColor=black)](https://bun.sh/)
-[![Drizzle](https://img.shields.io/badge/Drizzle-ORM-c5f74f?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
-[![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=popout&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38bdf8?style=popout&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bun](https://img.shields.io/badge/Bun-1.0+-fbf0df?style=popout&logo=bun&logoColor=black)](https://bun.sh/)
+[![Drizzle](https://img.shields.io/badge/Drizzle-ORM-c5f74f?style=popout&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
+[![SQLite](https://img.shields.io/badge/SQLite-003b57?style=popout&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-[![Last Commit](https://img.shields.io/github/last-commit/Lunacea/next-learn?style=for-the-badge&logo=github)](https://github.com/Lunacea/next-learn)
+[![Last Commit](https://img.shields.io/github/last-commit/Lunacea/next-learn?style=popout-square&logo=github)](https://github.com/Lunacea/next-learn)
 
 Next.jsを使ったWeb開発の学習記録です。
 
