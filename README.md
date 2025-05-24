@@ -47,12 +47,11 @@ bun dev
 | **JavaScript基礎**   | クロージャ、プロトタイプ、async/await、ES6+構文               |
 | **TypeScript**       | 型システム、ジェネリクス、型ガード                            |
 | **React/Next.js**    | コンポーネント設計、Hooks、App Router、サーバーコンポーネント |
-| **CSS/スタイリング** | Flexbox、Grid、レスポンシブデザイン、Tailwind CSS             |
+| **CSS/スタイリング** | Flexbox/Grid、レスポンシブデザイン、Tailwind CSS             |
 | **UI/UX設計**        | デザインシステム、アクセシビリティ、Figma                     |
-| **開発ツール**       | Webpack、Vite、ESLint、Git/GitHub、GitHub Actions             |
-| **テスト**           | Jest、React Testing Library、E2Eテスト                        |
-| **API/データ**       | REST API、GraphQL、状態管理                                   |
-| **デプロイ/運用**    | Vercel、Cloudflare、Docker、GitHub Actions                    |
+| **開発ツール**       | Biome/ESLint、Git/GitHub             |
+| **API/データ**       | REST API、GraphQL、WebSocket                                   |
+| **デプロイ/運用**    | Vercel、Cloudflare、GitHub Actions                    |
 
 ### 📖 参考資料
 
@@ -158,7 +157,7 @@ export const usersTable = sqliteTable("users_table", {
 - [ ] **データベース連携** - 既存のDrizzle ORMとAPI Routesの組み合わせ
 - [ ] **フォーム処理の実装** - サーバーサイドでのデータ送信・バリデーション
 
-### 🌐 フルスタックアプリケーション**
+### 🌐 フルスタックアプリケーション
 - [ ] **ブログ風サイトの構築** - DB連携とServer Componentを活用
 - [ ] **Vercel/Cloudflareへのデプロイ** - フルスタックアプリケーションの本番公開
 
